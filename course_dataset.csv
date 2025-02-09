@@ -1,0 +1,1001 @@
+CourseID,Title,Category,Price (INR),InstructorID
+1,Project Management Fundamentals,Web Development,37570,6
+2,C++ for Competitive Coding,Data Science,44329,212
+3,Rust Fundamentals,Web Development,22450,469
+4,Graphic Design with Photoshop,Design,38912,233
+5,Full-Stack Web Development,Programming,48005,344
+6,C++ for Competitive Coding,Data Science,39106,485
+7,React & Node.js Mastery,Programming,14625,479
+8,JavaScript for Beginners,Programming,31237,116
+9,Python for Data Science,Business,44167,32
+10,Financial Analysis for Startups,Programming,26230,353
+11,3D Modeling with Blender,Design,24432,273
+12,Full-Stack Web Development,Programming,44800,180
+13,Java Programming,Design,49689,18
+14,Rust Fundamentals,Programming,27493,287
+15,Java Programming,Business,25639,206
+16,Full-Stack Web Development,Programming,1502,334
+17,C++ for Competitive Coding,Data Science,36500,373
+18,Python for Data Science,Business,1111,226
+19,UI/UX Design Essentials,Design,33696,401
+20,UI/UX Design Essentials,Web Development,14493,193
+21,C++ for Competitive Coding,Business,28518,52
+22,React & Node.js Mastery,Web Development,37472,230
+23,Python for Data Science,Business,40383,413
+24,Python for Data Science,Programming,40172,134
+25,Graphic Design with Photoshop,Design,45724,85
+26,Python for Data Science,Programming,25633,74
+27,Digital Marketing 101,Web Development,9426,101
+28,React & Node.js Mastery,Design,45058,132
+29,Rust Fundamentals,Web Development,21456,190
+30,C++ for Competitive Coding,Web Development,48886,106
+31,Project Management Fundamentals,Programming,35664,322
+32,Machine Learning Basics,Web Development,1899,142
+33,Financial Analysis for Startups,Data Science,41857,200
+34,Full-Stack Web Development,Business,11881,385
+35,Rust Fundamentals,Programming,46102,317
+36,Python for Data Science,Programming,12558,254
+37,C++ for Competitive Coding,Programming,9107,395
+38,Python for Data Science,Business,6497,16
+39,Project Management Fundamentals,Programming,11007,214
+40,Full-Stack Web Development,Business,11880,465
+41,Python for Data Science,Design,6755,77
+42,C++ for Competitive Coding,Design,27430,260
+43,Deep Learning with TensorFlow,Programming,22043,7
+44,Python for Data Science,Design,7405,420
+45,React & Node.js Mastery,Programming,20537,325
+46,Project Management Fundamentals,Data Science,27546,49
+47,Deep Learning with TensorFlow,Business,40996,16
+48,Machine Learning Basics,Business,33447,201
+49,3D Modeling with Blender,Programming,45694,104
+50,Rust Fundamentals,Data Science,2691,321
+51,C++ for Competitive Coding,Business,13858,343
+52,Machine Learning Basics,Data Science,25188,169
+53,Machine Learning Basics,Web Development,24034,47
+54,JavaScript for Beginners,Data Science,19495,261
+55,C++ for Competitive Coding,Business,19868,446
+56,Rust Fundamentals,Programming,4123,20
+57,Rust Fundamentals,Web Development,8662,373
+58,Digital Marketing 101,Programming,27400,39
+59,Graphic Design with Photoshop,Design,1176,168
+60,React & Node.js Mastery,Data Science,11068,303
+61,Java Programming,Programming,8993,164
+62,UI/UX Design Essentials,Data Science,31959,264
+63,Rust Fundamentals,Programming,1445,232
+64,Graphic Design with Photoshop,Data Science,33541,375
+65,3D Modeling with Blender,Programming,30508,199
+66,Deep Learning with TensorFlow,Design,31776,97
+67,Machine Learning Basics,Web Development,8619,484
+68,C++ for Competitive Coding,Programming,3934,184
+69,3D Modeling with Blender,Programming,39866,410
+70,Python for Data Science,Web Development,7681,392
+71,Full-Stack Web Development,Design,34467,413
+72,Machine Learning Basics,Design,8584,430
+73,Python for Data Science,Programming,39968,113
+74,Machine Learning Basics,Data Science,2622,141
+75,Machine Learning Basics,Programming,12105,255
+76,Deep Learning with TensorFlow,Design,46008,494
+77,UI/UX Design Essentials,Programming,22813,482
+78,Full-Stack Web Development,Data Science,36935,373
+79,3D Modeling with Blender,Business,1728,275
+80,UI/UX Design Essentials,Programming,10051,223
+81,JavaScript for Beginners,Business,26213,229
+82,Project Management Fundamentals,Programming,12840,453
+83,Project Management Fundamentals,Programming,26400,112
+84,Full-Stack Web Development,Programming,29848,102
+85,C++ for Competitive Coding,Programming,11499,458
+86,UI/UX Design Essentials,Business,19279,344
+87,Machine Learning Basics,Web Development,38346,13
+88,Rust Fundamentals,Business,5788,13
+89,Rust Fundamentals,Data Science,25762,213
+90,JavaScript for Beginners,Data Science,43121,153
+91,Digital Marketing 101,Web Development,43715,92
+92,Digital Marketing 101,Programming,2424,273
+93,Machine Learning Basics,Programming,7076,219
+94,Rust Fundamentals,Design,12783,165
+95,UI/UX Design Essentials,Business,26859,141
+96,React & Node.js Mastery,Business,45056,47
+97,JavaScript for Beginners,Data Science,7597,222
+98,UI/UX Design Essentials,Web Development,14371,394
+99,React & Node.js Mastery,Business,5880,453
+100,Machine Learning Basics,Web Development,15420,440
+101,C++ for Competitive Coding,Web Development,35762,163
+102,Python for Data Science,Programming,9241,313
+103,Java Programming,Design,49858,381
+104,Java Programming,Web Development,31172,115
+105,Graphic Design with Photoshop,Design,33476,446
+106,Java Programming,Programming,40721,278
+107,Rust Fundamentals,Data Science,12546,109
+108,Project Management Fundamentals,Programming,20683,19
+109,3D Modeling with Blender,Business,25029,114
+110,Digital Marketing 101,Design,33706,145
+111,JavaScript for Beginners,Programming,31915,456
+112,Java Programming,Programming,28188,90
+113,Deep Learning with TensorFlow,Web Development,9903,307
+114,Full-Stack Web Development,Data Science,13660,45
+115,Project Management Fundamentals,Web Development,42610,497
+116,Python for Data Science,Design,33796,209
+117,Digital Marketing 101,Programming,13021,474
+118,Financial Analysis for Startups,Business,16817,302
+119,Rust Fundamentals,Web Development,43928,75
+120,Full-Stack Web Development,Web Development,20921,425
+121,Deep Learning with TensorFlow,Data Science,5211,118
+122,Java Programming,Programming,5792,355
+123,C++ for Competitive Coding,Web Development,15101,108
+124,Project Management Fundamentals,Programming,19363,476
+125,3D Modeling with Blender,Business,30840,299
+126,Project Management Fundamentals,Programming,4832,309
+127,Machine Learning Basics,Web Development,24475,190
+128,Deep Learning with TensorFlow,Programming,4311,315
+129,Machine Learning Basics,Business,34386,319
+130,3D Modeling with Blender,Business,7893,5
+131,Project Management Fundamentals,Web Development,31206,402
+132,3D Modeling with Blender,Business,16283,432
+133,Graphic Design with Photoshop,Web Development,29390,425
+134,JavaScript for Beginners,Web Development,23563,27
+135,Python for Data Science,Business,9536,147
+136,Java Programming,Design,6737,463
+137,3D Modeling with Blender,Business,37898,195
+138,React & Node.js Mastery,Business,9312,486
+139,React & Node.js Mastery,Web Development,41093,33
+140,C++ for Competitive Coding,Programming,32590,363
+141,UI/UX Design Essentials,Design,4252,467
+142,Financial Analysis for Startups,Programming,23604,243
+143,Java Programming,Data Science,19069,208
+144,UI/UX Design Essentials,Data Science,26561,308
+145,Rust Fundamentals,Web Development,31155,152
+146,Financial Analysis for Startups,Business,37704,283
+147,React & Node.js Mastery,Design,43036,254
+148,Java Programming,Design,32404,432
+149,Digital Marketing 101,Programming,32727,368
+150,Financial Analysis for Startups,Data Science,25187,21
+151,Full-Stack Web Development,Data Science,14106,458
+152,C++ for Competitive Coding,Programming,8250,205
+153,Graphic Design with Photoshop,Data Science,32798,341
+154,Machine Learning Basics,Programming,29615,193
+155,Full-Stack Web Development,Web Development,48439,108
+156,Deep Learning with TensorFlow,Web Development,2704,121
+157,Digital Marketing 101,Design,28585,7
+158,Full-Stack Web Development,Programming,21699,245
+159,Machine Learning Basics,Data Science,10975,153
+160,UI/UX Design Essentials,Data Science,30981,169
+161,Python for Data Science,Web Development,33152,285
+162,React & Node.js Mastery,Design,11042,468
+163,3D Modeling with Blender,Business,14975,116
+164,React & Node.js Mastery,Web Development,33731,17
+165,C++ for Competitive Coding,Programming,15050,389
+166,Financial Analysis for Startups,Design,18770,169
+167,Project Management Fundamentals,Programming,23041,346
+168,Full-Stack Web Development,Data Science,2310,446
+169,Project Management Fundamentals,Programming,46722,57
+170,Full-Stack Web Development,Business,23619,116
+171,Digital Marketing 101,Web Development,23412,45
+172,Project Management Fundamentals,Programming,49572,31
+173,3D Modeling with Blender,Programming,25493,27
+174,JavaScript for Beginners,Design,24401,431
+175,UI/UX Design Essentials,Design,48812,76
+176,C++ for Competitive Coding,Business,42558,164
+177,Python for Data Science,Business,44290,496
+178,Financial Analysis for Startups,Programming,11943,215
+179,Python for Data Science,Web Development,27579,422
+180,Full-Stack Web Development,Business,40017,248
+181,UI/UX Design Essentials,Data Science,32544,145
+182,C++ for Competitive Coding,Design,42916,123
+183,Project Management Fundamentals,Web Development,33983,196
+184,Java Programming,Design,11976,385
+185,Digital Marketing 101,Programming,6296,259
+186,Machine Learning Basics,Design,10241,453
+187,C++ for Competitive Coding,Web Development,13891,188
+188,Python for Data Science,Web Development,30984,236
+189,Full-Stack Web Development,Business,6786,30
+190,Full-Stack Web Development,Web Development,11623,366
+191,Financial Analysis for Startups,Data Science,49495,464
+192,C++ for Competitive Coding,Business,28713,255
+193,Deep Learning with TensorFlow,Web Development,24378,376
+194,Deep Learning with TensorFlow,Programming,7988,70
+195,C++ for Competitive Coding,Programming,22592,453
+196,React & Node.js Mastery,Web Development,20859,440
+197,3D Modeling with Blender,Web Development,14163,198
+198,JavaScript for Beginners,Programming,24537,124
+199,JavaScript for Beginners,Data Science,38372,366
+200,Machine Learning Basics,Programming,38234,396
+201,Financial Analysis for Startups,Design,43070,18
+202,Full-Stack Web Development,Web Development,36313,161
+203,Rust Fundamentals,Web Development,28062,296
+204,3D Modeling with Blender,Data Science,18058,101
+205,React & Node.js Mastery,Design,14810,240
+206,3D Modeling with Blender,Design,18810,145
+207,Java Programming,Design,26152,246
+208,C++ for Competitive Coding,Data Science,15141,415
+209,Deep Learning with TensorFlow,Web Development,8739,250
+210,Full-Stack Web Development,Business,45991,447
+211,React & Node.js Mastery,Web Development,7953,438
+212,Full-Stack Web Development,Data Science,9433,199
+213,C++ for Competitive Coding,Business,27478,485
+214,Rust Fundamentals,Web Development,33005,194
+215,3D Modeling with Blender,Business,11682,337
+216,Machine Learning Basics,Data Science,30024,402
+217,Graphic Design with Photoshop,Web Development,47231,315
+218,Deep Learning with TensorFlow,Business,21908,177
+219,JavaScript for Beginners,Data Science,29980,321
+220,Python for Data Science,Data Science,18321,495
+221,Graphic Design with Photoshop,Business,13370,263
+222,UI/UX Design Essentials,Web Development,18286,106
+223,Deep Learning with TensorFlow,Programming,42724,54
+224,Digital Marketing 101,Web Development,26628,248
+225,Graphic Design with Photoshop,Web Development,11933,231
+226,Digital Marketing 101,Design,6220,423
+227,Project Management Fundamentals,Data Science,21163,348
+228,C++ for Competitive Coding,Business,928,107
+229,React & Node.js Mastery,Business,865,406
+230,Python for Data Science,Design,15166,308
+231,Financial Analysis for Startups,Business,40961,344
+232,React & Node.js Mastery,Business,32199,412
+233,Machine Learning Basics,Programming,27988,15
+234,Financial Analysis for Startups,Business,38747,272
+235,Rust Fundamentals,Data Science,25712,317
+236,Digital Marketing 101,Design,44056,444
+237,Machine Learning Basics,Data Science,6431,94
+238,Deep Learning with TensorFlow,Programming,1723,227
+239,Deep Learning with TensorFlow,Data Science,17008,158
+240,Digital Marketing 101,Business,18105,123
+241,JavaScript for Beginners,Business,39919,220
+242,Deep Learning with TensorFlow,Design,15163,360
+243,Financial Analysis for Startups,Data Science,33097,46
+244,JavaScript for Beginners,Business,23591,50
+245,Graphic Design with Photoshop,Business,19804,29
+246,Machine Learning Basics,Business,41134,465
+247,Deep Learning with TensorFlow,Data Science,47156,273
+248,Deep Learning with TensorFlow,Programming,35087,371
+249,JavaScript for Beginners,Programming,41450,38
+250,Financial Analysis for Startups,Programming,24418,370
+251,Full-Stack Web Development,Business,45105,238
+252,C++ for Competitive Coding,Programming,15634,306
+253,Java Programming,Programming,15274,209
+254,UI/UX Design Essentials,Web Development,14364,53
+255,React & Node.js Mastery,Design,26167,359
+256,Rust Fundamentals,Business,32539,14
+257,React & Node.js Mastery,Web Development,12422,193
+258,Java Programming,Web Development,23506,240
+259,Rust Fundamentals,Web Development,34130,86
+260,Rust Fundamentals,Design,49065,316
+261,JavaScript for Beginners,Data Science,13286,249
+262,Machine Learning Basics,Design,48334,196
+263,Full-Stack Web Development,Design,6883,358
+264,Graphic Design with Photoshop,Data Science,4055,18
+265,Financial Analysis for Startups,Design,20874,308
+266,Machine Learning Basics,Web Development,44892,376
+267,Java Programming,Programming,24910,303
+268,Python for Data Science,Business,26031,128
+269,Financial Analysis for Startups,Programming,28427,39
+270,Project Management Fundamentals,Design,3935,393
+271,Financial Analysis for Startups,Data Science,13422,284
+272,Java Programming,Data Science,14348,80
+273,Graphic Design with Photoshop,Web Development,46103,4
+274,Deep Learning with TensorFlow,Web Development,21554,238
+275,Java Programming,Programming,19200,206
+276,Project Management Fundamentals,Programming,45496,194
+277,Machine Learning Basics,Data Science,41228,82
+278,Financial Analysis for Startups,Programming,10065,494
+279,Project Management Fundamentals,Design,10410,376
+280,React & Node.js Mastery,Data Science,12972,272
+281,Java Programming,Programming,43573,66
+282,React & Node.js Mastery,Business,1048,495
+283,Project Management Fundamentals,Programming,4800,295
+284,UI/UX Design Essentials,Programming,8025,179
+285,Deep Learning with TensorFlow,Business,11885,17
+286,Java Programming,Business,43836,412
+287,Machine Learning Basics,Programming,23815,111
+288,UI/UX Design Essentials,Design,31729,81
+289,Deep Learning with TensorFlow,Web Development,49558,207
+290,Full-Stack Web Development,Business,16467,292
+291,Java Programming,Programming,33900,391
+292,Graphic Design with Photoshop,Web Development,33595,334
+293,Java Programming,Design,16901,21
+294,UI/UX Design Essentials,Web Development,32975,41
+295,Java Programming,Business,23222,19
+296,Graphic Design with Photoshop,Web Development,4638,306
+297,Java Programming,Programming,22269,213
+298,Project Management Fundamentals,Business,40623,251
+299,Digital Marketing 101,Web Development,43712,458
+300,Java Programming,Web Development,14231,20
+301,C++ for Competitive Coding,Design,18238,39
+302,Graphic Design with Photoshop,Design,8920,15
+303,Digital Marketing 101,Programming,30017,240
+304,Rust Fundamentals,Business,8205,445
+305,Full-Stack Web Development,Design,19559,262
+306,Full-Stack Web Development,Programming,6943,153
+307,Rust Fundamentals,Programming,33780,238
+308,C++ for Competitive Coding,Web Development,37041,327
+309,3D Modeling with Blender,Data Science,46594,190
+310,Graphic Design with Photoshop,Business,37191,226
+311,React & Node.js Mastery,Programming,6982,500
+312,React & Node.js Mastery,Web Development,15226,394
+313,Graphic Design with Photoshop,Programming,6537,321
+314,Project Management Fundamentals,Data Science,38041,201
+315,Financial Analysis for Startups,Business,11942,50
+316,C++ for Competitive Coding,Design,25674,123
+317,Graphic Design with Photoshop,Programming,40112,301
+318,Full-Stack Web Development,Programming,21013,225
+319,Python for Data Science,Programming,7667,150
+320,Project Management Fundamentals,Business,47367,93
+321,Full-Stack Web Development,Data Science,22083,135
+322,Graphic Design with Photoshop,Data Science,35590,401
+323,Rust Fundamentals,Programming,11295,200
+324,Java Programming,Data Science,19614,433
+325,Digital Marketing 101,Data Science,1353,249
+326,Deep Learning with TensorFlow,Programming,26878,152
+327,Graphic Design with Photoshop,Design,30474,32
+328,Project Management Fundamentals,Data Science,30217,33
+329,Financial Analysis for Startups,Design,41689,162
+330,Financial Analysis for Startups,Programming,43362,478
+331,Machine Learning Basics,Design,20382,393
+332,Digital Marketing 101,Business,24936,114
+333,Full-Stack Web Development,Design,9385,149
+334,Rust Fundamentals,Web Development,29759,61
+335,3D Modeling with Blender,Business,5454,255
+336,JavaScript for Beginners,Design,26858,499
+337,Graphic Design with Photoshop,Business,732,70
+338,Graphic Design with Photoshop,Design,26920,285
+339,Rust Fundamentals,Programming,37573,485
+340,Project Management Fundamentals,Programming,39473,382
+341,UI/UX Design Essentials,Programming,18677,138
+342,Java Programming,Web Development,18491,473
+343,Python for Data Science,Programming,44500,116
+344,Rust Fundamentals,Web Development,44551,228
+345,Machine Learning Basics,Business,24657,494
+346,Full-Stack Web Development,Programming,43080,340
+347,React & Node.js Mastery,Design,16125,404
+348,Financial Analysis for Startups,Programming,44094,16
+349,Python for Data Science,Web Development,36826,27
+350,Rust Fundamentals,Business,24760,485
+351,React & Node.js Mastery,Design,29419,55
+352,Digital Marketing 101,Data Science,16930,489
+353,Rust Fundamentals,Business,42441,308
+354,Machine Learning Basics,Programming,36108,345
+355,Rust Fundamentals,Web Development,48955,127
+356,Digital Marketing 101,Data Science,42950,194
+357,3D Modeling with Blender,Design,17165,254
+358,Project Management Fundamentals,Design,2637,468
+359,C++ for Competitive Coding,Web Development,46936,199
+360,React & Node.js Mastery,Data Science,22623,134
+361,UI/UX Design Essentials,Data Science,33768,357
+362,UI/UX Design Essentials,Business,33532,391
+363,Financial Analysis for Startups,Programming,34800,422
+364,3D Modeling with Blender,Programming,29801,454
+365,Financial Analysis for Startups,Data Science,40778,206
+366,3D Modeling with Blender,Business,42264,439
+367,Rust Fundamentals,Programming,45429,248
+368,C++ for Competitive Coding,Programming,11091,374
+369,Financial Analysis for Startups,Design,43080,420
+370,Rust Fundamentals,Programming,49980,309
+371,Digital Marketing 101,Web Development,26878,315
+372,Financial Analysis for Startups,Design,45146,114
+373,React & Node.js Mastery,Business,40866,251
+374,Rust Fundamentals,Programming,5946,205
+375,Digital Marketing 101,Web Development,5786,250
+376,Graphic Design with Photoshop,Design,12273,423
+377,Deep Learning with TensorFlow,Data Science,36004,444
+378,C++ for Competitive Coding,Programming,10105,161
+379,Financial Analysis for Startups,Business,42849,2
+380,Deep Learning with TensorFlow,Design,12186,405
+381,Java Programming,Design,10661,45
+382,Deep Learning with TensorFlow,Programming,3779,487
+383,Rust Fundamentals,Programming,28955,369
+384,Project Management Fundamentals,Design,45860,497
+385,3D Modeling with Blender,Programming,44881,12
+386,C++ for Competitive Coding,Web Development,16283,131
+387,Machine Learning Basics,Web Development,5719,143
+388,Graphic Design with Photoshop,Web Development,49701,456
+389,Rust Fundamentals,Design,7652,497
+390,Digital Marketing 101,Programming,33746,187
+391,Java Programming,Business,3414,69
+392,JavaScript for Beginners,Programming,28770,399
+393,Digital Marketing 101,Data Science,32922,72
+394,JavaScript for Beginners,Programming,1016,386
+395,Graphic Design with Photoshop,Business,5387,25
+396,Project Management Fundamentals,Programming,26780,478
+397,Digital Marketing 101,Programming,3451,273
+398,Machine Learning Basics,Programming,36115,384
+399,Python for Data Science,Data Science,10126,303
+400,Java Programming,Web Development,8876,250
+401,Java Programming,Business,35988,87
+402,Digital Marketing 101,Business,6129,496
+403,Machine Learning Basics,Design,4385,73
+404,Digital Marketing 101,Design,22212,187
+405,3D Modeling with Blender,Business,23136,2
+406,Digital Marketing 101,Programming,12017,430
+407,Graphic Design with Photoshop,Web Development,6207,405
+408,React & Node.js Mastery,Design,11401,186
+409,C++ for Competitive Coding,Design,22186,265
+410,Python for Data Science,Programming,17523,284
+411,Java Programming,Design,5633,330
+412,Rust Fundamentals,Data Science,17271,102
+413,Python for Data Science,Data Science,42701,252
+414,Project Management Fundamentals,Design,10621,190
+415,React & Node.js Mastery,Design,7661,66
+416,UI/UX Design Essentials,Design,17734,170
+417,Project Management Fundamentals,Programming,17437,36
+418,Java Programming,Design,8918,453
+419,Graphic Design with Photoshop,Programming,2104,126
+420,Graphic Design with Photoshop,Web Development,8528,340
+421,Graphic Design with Photoshop,Web Development,40912,358
+422,Rust Fundamentals,Programming,15017,376
+423,Machine Learning Basics,Data Science,47328,321
+424,Project Management Fundamentals,Design,11429,418
+425,Full-Stack Web Development,Web Development,6251,434
+426,UI/UX Design Essentials,Programming,7685,390
+427,Financial Analysis for Startups,Business,43092,182
+428,Deep Learning with TensorFlow,Data Science,43798,112
+429,Python for Data Science,Programming,47739,177
+430,Java Programming,Design,28877,10
+431,Full-Stack Web Development,Business,15500,388
+432,Project Management Fundamentals,Programming,4305,316
+433,JavaScript for Beginners,Design,5236,258
+434,3D Modeling with Blender,Design,12621,390
+435,C++ for Competitive Coding,Data Science,29892,8
+436,C++ for Competitive Coding,Programming,43088,8
+437,Rust Fundamentals,Programming,11106,344
+438,Graphic Design with Photoshop,Business,1755,71
+439,Digital Marketing 101,Design,48135,162
+440,Machine Learning Basics,Design,14615,404
+441,Java Programming,Data Science,6464,45
+442,Project Management Fundamentals,Business,38843,322
+443,Deep Learning with TensorFlow,Data Science,25117,184
+444,Digital Marketing 101,Web Development,17092,490
+445,Digital Marketing 101,Data Science,9079,195
+446,React & Node.js Mastery,Programming,31675,144
+447,Java Programming,Design,26118,438
+448,Financial Analysis for Startups,Design,8059,272
+449,JavaScript for Beginners,Design,21450,125
+450,Full-Stack Web Development,Data Science,36086,225
+451,Financial Analysis for Startups,Design,5855,11
+452,C++ for Competitive Coding,Programming,33688,192
+453,Full-Stack Web Development,Programming,31102,454
+454,Full-Stack Web Development,Web Development,10480,425
+455,3D Modeling with Blender,Design,3346,388
+456,Financial Analysis for Startups,Programming,29631,308
+457,Python for Data Science,Business,20372,240
+458,UI/UX Design Essentials,Business,13118,279
+459,Rust Fundamentals,Data Science,22645,155
+460,Java Programming,Data Science,27268,76
+461,Rust Fundamentals,Design,20343,63
+462,Full-Stack Web Development,Business,43657,389
+463,Digital Marketing 101,Programming,37220,49
+464,Rust Fundamentals,Design,18821,423
+465,JavaScript for Beginners,Programming,9121,38
+466,Full-Stack Web Development,Web Development,19751,59
+467,3D Modeling with Blender,Web Development,44525,49
+468,Graphic Design with Photoshop,Business,7191,175
+469,Deep Learning with TensorFlow,Design,39907,117
+470,Deep Learning with TensorFlow,Design,7236,174
+471,Financial Analysis for Startups,Web Development,41367,479
+472,Financial Analysis for Startups,Web Development,37021,314
+473,C++ for Competitive Coding,Business,29115,268
+474,C++ for Competitive Coding,Data Science,11301,90
+475,Deep Learning with TensorFlow,Design,15085,456
+476,C++ for Competitive Coding,Design,44457,480
+477,React & Node.js Mastery,Business,4255,35
+478,UI/UX Design Essentials,Business,30103,373
+479,Python for Data Science,Business,23233,455
+480,Machine Learning Basics,Business,21829,496
+481,Financial Analysis for Startups,Design,12143,281
+482,Full-Stack Web Development,Programming,25581,119
+483,Digital Marketing 101,Business,8994,177
+484,UI/UX Design Essentials,Data Science,31408,18
+485,Java Programming,Business,44987,121
+486,3D Modeling with Blender,Programming,14096,393
+487,Rust Fundamentals,Business,48278,102
+488,JavaScript for Beginners,Data Science,7065,230
+489,Rust Fundamentals,Business,27366,19
+490,UI/UX Design Essentials,Business,27118,78
+491,C++ for Competitive Coding,Programming,44590,20
+492,Full-Stack Web Development,Business,21589,329
+493,Financial Analysis for Startups,Data Science,46597,457
+494,Graphic Design with Photoshop,Web Development,20203,243
+495,3D Modeling with Blender,Data Science,3097,66
+496,Machine Learning Basics,Programming,39644,172
+497,Financial Analysis for Startups,Programming,6889,307
+498,Full-Stack Web Development,Data Science,19347,295
+499,Graphic Design with Photoshop,Business,39848,124
+500,Financial Analysis for Startups,Web Development,7709,474
+501,Digital Marketing 101,Business,27436,407
+502,JavaScript for Beginners,Programming,19057,361
+503,3D Modeling with Blender,Design,4749,199
+504,UI/UX Design Essentials,Programming,44172,80
+505,Graphic Design with Photoshop,Business,46013,176
+506,JavaScript for Beginners,Business,14626,410
+507,Python for Data Science,Data Science,25767,471
+508,Deep Learning with TensorFlow,Business,39262,124
+509,3D Modeling with Blender,Design,10880,75
+510,JavaScript for Beginners,Design,36191,102
+511,3D Modeling with Blender,Data Science,23103,42
+512,Python for Data Science,Programming,29226,15
+513,Full-Stack Web Development,Programming,24106,318
+514,Python for Data Science,Business,13946,317
+515,Machine Learning Basics,Data Science,22259,113
+516,Graphic Design with Photoshop,Programming,39139,363
+517,Project Management Fundamentals,Business,6589,348
+518,UI/UX Design Essentials,Business,38560,179
+519,Deep Learning with TensorFlow,Web Development,9185,426
+520,React & Node.js Mastery,Business,47102,462
+521,Financial Analysis for Startups,Programming,32922,409
+522,Python for Data Science,Data Science,19075,279
+523,3D Modeling with Blender,Business,33562,440
+524,Machine Learning Basics,Data Science,18925,410
+525,Graphic Design with Photoshop,Programming,6866,379
+526,React & Node.js Mastery,Web Development,4199,89
+527,Graphic Design with Photoshop,Data Science,14830,486
+528,JavaScript for Beginners,Programming,39105,390
+529,Rust Fundamentals,Design,3624,155
+530,Rust Fundamentals,Programming,12327,174
+531,C++ for Competitive Coding,Business,34986,119
+532,Deep Learning with TensorFlow,Design,48380,112
+533,Digital Marketing 101,Design,28764,217
+534,Project Management Fundamentals,Data Science,9287,466
+535,Full-Stack Web Development,Design,8623,40
+536,Full-Stack Web Development,Web Development,33341,411
+537,Deep Learning with TensorFlow,Web Development,5451,418
+538,React & Node.js Mastery,Data Science,20321,95
+539,Digital Marketing 101,Data Science,22717,498
+540,Java Programming,Web Development,41734,474
+541,Java Programming,Data Science,34451,272
+542,Project Management Fundamentals,Business,28234,382
+543,Digital Marketing 101,Design,35339,20
+544,React & Node.js Mastery,Web Development,20757,119
+545,React & Node.js Mastery,Business,14625,436
+546,Java Programming,Design,14514,442
+547,JavaScript for Beginners,Data Science,16487,295
+548,UI/UX Design Essentials,Design,16349,188
+549,Full-Stack Web Development,Programming,10871,100
+550,UI/UX Design Essentials,Programming,25793,92
+551,Financial Analysis for Startups,Design,23688,232
+552,Digital Marketing 101,Business,44088,192
+553,Deep Learning with TensorFlow,Business,48246,155
+554,Java Programming,Design,20287,452
+555,JavaScript for Beginners,Business,46515,108
+556,UI/UX Design Essentials,Programming,17827,210
+557,3D Modeling with Blender,Data Science,6866,468
+558,Java Programming,Business,4608,328
+559,Full-Stack Web Development,Business,14899,415
+560,Rust Fundamentals,Programming,35771,385
+561,Python for Data Science,Programming,18298,267
+562,Project Management Fundamentals,Data Science,12621,166
+563,Machine Learning Basics,Design,45358,410
+564,C++ for Competitive Coding,Programming,4200,172
+565,Rust Fundamentals,Business,27092,88
+566,Digital Marketing 101,Programming,30635,45
+567,Java Programming,Programming,47842,438
+568,Machine Learning Basics,Web Development,18758,2
+569,Project Management Fundamentals,Data Science,23124,133
+570,Digital Marketing 101,Data Science,26193,117
+571,UI/UX Design Essentials,Business,1558,242
+572,Graphic Design with Photoshop,Design,47716,21
+573,Graphic Design with Photoshop,Programming,2539,343
+574,UI/UX Design Essentials,Programming,47686,225
+575,C++ for Competitive Coding,Data Science,10715,331
+576,JavaScript for Beginners,Business,11773,340
+577,Machine Learning Basics,Business,31904,43
+578,Full-Stack Web Development,Web Development,10455,444
+579,Full-Stack Web Development,Web Development,47941,478
+580,C++ for Competitive Coding,Design,18339,71
+581,JavaScript for Beginners,Business,46442,239
+582,Project Management Fundamentals,Data Science,9808,477
+583,Rust Fundamentals,Programming,43399,424
+584,Java Programming,Programming,40776,311
+585,JavaScript for Beginners,Programming,21440,315
+586,UI/UX Design Essentials,Design,27892,168
+587,C++ for Competitive Coding,Web Development,25979,383
+588,UI/UX Design Essentials,Web Development,7214,84
+589,Deep Learning with TensorFlow,Design,27517,464
+590,Deep Learning with TensorFlow,Data Science,18586,349
+591,3D Modeling with Blender,Data Science,39319,223
+592,Full-Stack Web Development,Web Development,19441,304
+593,Graphic Design with Photoshop,Design,19953,377
+594,Financial Analysis for Startups,Data Science,3627,37
+595,Graphic Design with Photoshop,Web Development,36273,300
+596,Digital Marketing 101,Business,25691,195
+597,Digital Marketing 101,Data Science,917,458
+598,Digital Marketing 101,Design,47458,397
+599,Python for Data Science,Design,26292,155
+600,Digital Marketing 101,Web Development,29620,161
+601,3D Modeling with Blender,Business,47797,54
+602,Project Management Fundamentals,Programming,35819,164
+603,Python for Data Science,Data Science,31428,459
+604,Machine Learning Basics,Data Science,45785,337
+605,Machine Learning Basics,Data Science,22834,381
+606,Java Programming,Programming,23230,156
+607,Full-Stack Web Development,Programming,42111,19
+608,Deep Learning with TensorFlow,Data Science,21133,246
+609,Full-Stack Web Development,Web Development,9689,425
+610,UI/UX Design Essentials,Design,46581,228
+611,3D Modeling with Blender,Data Science,21725,467
+612,C++ for Competitive Coding,Web Development,48416,27
+613,Full-Stack Web Development,Business,45535,158
+614,Rust Fundamentals,Web Development,9069,499
+615,Java Programming,Business,16174,103
+616,JavaScript for Beginners,Design,46304,412
+617,Digital Marketing 101,Business,37396,291
+618,Python for Data Science,Data Science,36281,452
+619,Machine Learning Basics,Programming,17392,486
+620,Machine Learning Basics,Web Development,15162,21
+621,3D Modeling with Blender,Programming,46819,164
+622,React & Node.js Mastery,Web Development,21129,108
+623,C++ for Competitive Coding,Data Science,43200,35
+624,Graphic Design with Photoshop,Data Science,19372,316
+625,JavaScript for Beginners,Design,34897,427
+626,Rust Fundamentals,Design,33580,391
+627,Java Programming,Programming,3431,241
+628,JavaScript for Beginners,Web Development,19341,316
+629,3D Modeling with Blender,Data Science,5934,172
+630,C++ for Competitive Coding,Data Science,48634,343
+631,C++ for Competitive Coding,Data Science,8295,213
+632,JavaScript for Beginners,Web Development,26906,475
+633,JavaScript for Beginners,Data Science,38521,40
+634,Digital Marketing 101,Web Development,8949,476
+635,Machine Learning Basics,Design,26552,24
+636,Financial Analysis for Startups,Programming,37444,277
+637,Rust Fundamentals,Design,29923,283
+638,Rust Fundamentals,Programming,14233,370
+639,UI/UX Design Essentials,Business,6807,373
+640,C++ for Competitive Coding,Data Science,24431,365
+641,UI/UX Design Essentials,Business,17332,396
+642,C++ for Competitive Coding,Programming,3760,407
+643,JavaScript for Beginners,Business,12465,132
+644,JavaScript for Beginners,Design,28088,144
+645,Digital Marketing 101,Data Science,34116,114
+646,Deep Learning with TensorFlow,Design,21959,224
+647,Financial Analysis for Startups,Design,39777,34
+648,React & Node.js Mastery,Programming,12269,56
+649,Deep Learning with TensorFlow,Business,27224,100
+650,Machine Learning Basics,Web Development,18226,406
+651,UI/UX Design Essentials,Web Development,48740,31
+652,C++ for Competitive Coding,Programming,1849,409
+653,Rust Fundamentals,Data Science,44629,133
+654,3D Modeling with Blender,Business,32297,293
+655,Java Programming,Data Science,42881,10
+656,Financial Analysis for Startups,Programming,21140,305
+657,Financial Analysis for Startups,Web Development,32826,273
+658,React & Node.js Mastery,Business,32935,392
+659,Rust Fundamentals,Web Development,14764,139
+660,Financial Analysis for Startups,Web Development,18870,34
+661,Project Management Fundamentals,Web Development,33049,159
+662,Deep Learning with TensorFlow,Web Development,8853,369
+663,Digital Marketing 101,Web Development,33322,43
+664,Java Programming,Business,7874,114
+665,Graphic Design with Photoshop,Business,47539,221
+666,Digital Marketing 101,Programming,1176,321
+667,Project Management Fundamentals,Programming,9295,334
+668,UI/UX Design Essentials,Programming,18129,388
+669,3D Modeling with Blender,Data Science,35225,27
+670,C++ for Competitive Coding,Design,28799,403
+671,Machine Learning Basics,Web Development,32278,399
+672,Full-Stack Web Development,Design,16748,352
+673,Financial Analysis for Startups,Programming,30655,324
+674,Java Programming,Programming,43005,187
+675,Financial Analysis for Startups,Web Development,1704,39
+676,Project Management Fundamentals,Design,33299,203
+677,C++ for Competitive Coding,Web Development,24552,270
+678,Financial Analysis for Startups,Web Development,23016,416
+679,Financial Analysis for Startups,Programming,5599,61
+680,JavaScript for Beginners,Business,21250,237
+681,JavaScript for Beginners,Data Science,36413,193
+682,Digital Marketing 101,Data Science,15902,372
+683,Financial Analysis for Startups,Business,41617,444
+684,Financial Analysis for Startups,Web Development,8530,150
+685,Java Programming,Design,10152,231
+686,JavaScript for Beginners,Business,11700,202
+687,JavaScript for Beginners,Data Science,11546,386
+688,Project Management Fundamentals,Business,10921,401
+689,Full-Stack Web Development,Web Development,4018,334
+690,UI/UX Design Essentials,Design,7397,300
+691,Graphic Design with Photoshop,Business,20863,455
+692,3D Modeling with Blender,Data Science,43674,158
+693,Digital Marketing 101,Programming,41226,22
+694,Financial Analysis for Startups,Data Science,14007,216
+695,Graphic Design with Photoshop,Programming,8627,229
+696,React & Node.js Mastery,Business,44042,285
+697,React & Node.js Mastery,Business,49963,240
+698,UI/UX Design Essentials,Programming,36932,74
+699,JavaScript for Beginners,Business,27082,411
+700,Rust Fundamentals,Business,41180,183
+701,C++ for Competitive Coding,Design,31788,185
+702,Digital Marketing 101,Business,20288,115
+703,Financial Analysis for Startups,Programming,10201,462
+704,UI/UX Design Essentials,Web Development,38895,490
+705,Rust Fundamentals,Data Science,33717,189
+706,C++ for Competitive Coding,Design,40063,288
+707,Rust Fundamentals,Data Science,35903,351
+708,JavaScript for Beginners,Web Development,17780,93
+709,Project Management Fundamentals,Data Science,27228,240
+710,Graphic Design with Photoshop,Web Development,7222,308
+711,3D Modeling with Blender,Web Development,47523,315
+712,Rust Fundamentals,Design,6721,469
+713,C++ for Competitive Coding,Data Science,22575,145
+714,Graphic Design with Photoshop,Business,30913,123
+715,Graphic Design with Photoshop,Business,6053,29
+716,Project Management Fundamentals,Web Development,34929,134
+717,Full-Stack Web Development,Data Science,2194,39
+718,Rust Fundamentals,Design,35925,379
+719,C++ for Competitive Coding,Data Science,26205,175
+720,C++ for Competitive Coding,Design,48006,227
+721,Rust Fundamentals,Design,17788,12
+722,Python for Data Science,Programming,49846,110
+723,Rust Fundamentals,Data Science,40034,271
+724,Graphic Design with Photoshop,Web Development,18804,221
+725,JavaScript for Beginners,Web Development,12154,93
+726,Digital Marketing 101,Data Science,22830,469
+727,Deep Learning with TensorFlow,Business,24282,324
+728,React & Node.js Mastery,Design,12969,477
+729,3D Modeling with Blender,Web Development,41858,75
+730,Financial Analysis for Startups,Design,21670,258
+731,Project Management Fundamentals,Business,21974,337
+732,Deep Learning with TensorFlow,Web Development,31431,438
+733,Digital Marketing 101,Web Development,38108,225
+734,Deep Learning with TensorFlow,Data Science,6755,280
+735,Python for Data Science,Programming,24728,51
+736,Machine Learning Basics,Data Science,41462,251
+737,Rust Fundamentals,Design,2247,207
+738,Project Management Fundamentals,Programming,6199,14
+739,Project Management Fundamentals,Data Science,27388,4
+740,Graphic Design with Photoshop,Programming,15017,500
+741,Java Programming,Web Development,42577,7
+742,C++ for Competitive Coding,Data Science,39633,106
+743,UI/UX Design Essentials,Web Development,9539,112
+744,Project Management Fundamentals,Business,25851,380
+745,Digital Marketing 101,Web Development,18295,375
+746,Java Programming,Data Science,26710,71
+747,Java Programming,Design,7185,394
+748,Rust Fundamentals,Design,24672,292
+749,Java Programming,Programming,45921,113
+750,Machine Learning Basics,Data Science,6132,93
+751,Deep Learning with TensorFlow,Programming,43240,206
+752,UI/UX Design Essentials,Programming,40384,20
+753,Project Management Fundamentals,Data Science,43597,153
+754,Deep Learning with TensorFlow,Data Science,25644,377
+755,React & Node.js Mastery,Web Development,43027,303
+756,React & Node.js Mastery,Data Science,43600,117
+757,3D Modeling with Blender,Business,2843,288
+758,JavaScript for Beginners,Design,14581,180
+759,JavaScript for Beginners,Design,46795,399
+760,Project Management Fundamentals,Web Development,5777,500
+761,Deep Learning with TensorFlow,Design,45065,35
+762,Financial Analysis for Startups,Web Development,25354,17
+763,JavaScript for Beginners,Web Development,38354,184
+764,Machine Learning Basics,Business,46954,289
+765,Project Management Fundamentals,Design,14567,419
+766,JavaScript for Beginners,Programming,36723,362
+767,Deep Learning with TensorFlow,Business,43075,353
+768,Project Management Fundamentals,Web Development,5221,95
+769,UI/UX Design Essentials,Design,44493,129
+770,C++ for Competitive Coding,Data Science,2882,268
+771,Python for Data Science,Design,26074,137
+772,Rust Fundamentals,Programming,9051,56
+773,Financial Analysis for Startups,Design,33647,400
+774,3D Modeling with Blender,Data Science,1593,240
+775,Deep Learning with TensorFlow,Data Science,27792,413
+776,Financial Analysis for Startups,Programming,12052,81
+777,Rust Fundamentals,Business,45164,7
+778,UI/UX Design Essentials,Data Science,34688,451
+779,Graphic Design with Photoshop,Data Science,35425,243
+780,React & Node.js Mastery,Web Development,37173,247
+781,Java Programming,Web Development,25221,478
+782,JavaScript for Beginners,Programming,35104,467
+783,Deep Learning with TensorFlow,Data Science,33204,399
+784,Financial Analysis for Startups,Design,45245,452
+785,3D Modeling with Blender,Design,20349,336
+786,Digital Marketing 101,Business,19834,308
+787,Deep Learning with TensorFlow,Data Science,32428,176
+788,Java Programming,Web Development,17623,15
+789,UI/UX Design Essentials,Business,44305,342
+790,JavaScript for Beginners,Web Development,25730,472
+791,UI/UX Design Essentials,Data Science,13867,11
+792,Project Management Fundamentals,Web Development,43608,461
+793,Deep Learning with TensorFlow,Programming,45814,151
+794,Rust Fundamentals,Design,9636,198
+795,3D Modeling with Blender,Programming,41419,170
+796,Financial Analysis for Startups,Data Science,5427,150
+797,Financial Analysis for Startups,Data Science,11446,43
+798,JavaScript for Beginners,Design,20307,190
+799,Rust Fundamentals,Data Science,555,408
+800,Rust Fundamentals,Data Science,15026,404
+801,Java Programming,Data Science,9100,228
+802,Financial Analysis for Startups,Web Development,5273,417
+803,3D Modeling with Blender,Data Science,19278,227
+804,Full-Stack Web Development,Web Development,49467,311
+805,Python for Data Science,Web Development,26144,423
+806,UI/UX Design Essentials,Design,10730,456
+807,Financial Analysis for Startups,Design,48502,477
+808,Financial Analysis for Startups,Web Development,17008,35
+809,Digital Marketing 101,Business,14826,257
+810,UI/UX Design Essentials,Web Development,21091,252
+811,React & Node.js Mastery,Programming,12987,407
+812,UI/UX Design Essentials,Web Development,13837,182
+813,Java Programming,Design,10946,358
+814,JavaScript for Beginners,Data Science,18031,319
+815,Project Management Fundamentals,Business,9510,144
+816,C++ for Competitive Coding,Business,29536,337
+817,Machine Learning Basics,Business,39085,433
+818,C++ for Competitive Coding,Design,15786,214
+819,Java Programming,Programming,25396,415
+820,Deep Learning with TensorFlow,Web Development,48828,28
+821,JavaScript for Beginners,Design,24330,317
+822,UI/UX Design Essentials,Design,32972,192
+823,React & Node.js Mastery,Programming,48699,266
+824,Machine Learning Basics,Business,7481,47
+825,Python for Data Science,Data Science,13438,381
+826,Digital Marketing 101,Business,32258,337
+827,Deep Learning with TensorFlow,Design,6813,9
+828,Digital Marketing 101,Design,9993,41
+829,Full-Stack Web Development,Data Science,16928,67
+830,Full-Stack Web Development,Programming,43622,459
+831,UI/UX Design Essentials,Business,27260,327
+832,Digital Marketing 101,Data Science,11241,344
+833,UI/UX Design Essentials,Web Development,43702,220
+834,C++ for Competitive Coding,Design,26725,298
+835,C++ for Competitive Coding,Business,14251,190
+836,Financial Analysis for Startups,Business,27236,54
+837,Deep Learning with TensorFlow,Web Development,10645,105
+838,Graphic Design with Photoshop,Business,49868,121
+839,Machine Learning Basics,Design,11136,358
+840,Rust Fundamentals,Programming,6378,453
+841,JavaScript for Beginners,Programming,30215,304
+842,Java Programming,Data Science,14555,376
+843,Project Management Fundamentals,Business,19124,58
+844,Python for Data Science,Design,2079,467
+845,React & Node.js Mastery,Business,6165,72
+846,Python for Data Science,Design,33057,449
+847,Financial Analysis for Startups,Web Development,36642,329
+848,Python for Data Science,Web Development,28329,200
+849,Machine Learning Basics,Data Science,34989,129
+850,Financial Analysis for Startups,Business,44676,316
+851,Full-Stack Web Development,Design,27327,266
+852,Machine Learning Basics,Design,21153,465
+853,React & Node.js Mastery,Data Science,12904,306
+854,Deep Learning with TensorFlow,Business,44993,412
+855,Rust Fundamentals,Web Development,23332,384
+856,Digital Marketing 101,Business,39836,307
+857,Project Management Fundamentals,Data Science,8419,58
+858,JavaScript for Beginners,Business,26760,23
+859,3D Modeling with Blender,Data Science,25873,158
+860,Graphic Design with Photoshop,Web Development,3416,342
+861,Java Programming,Data Science,24865,343
+862,Graphic Design with Photoshop,Design,3562,447
+863,Full-Stack Web Development,Web Development,22891,352
+864,JavaScript for Beginners,Design,28303,402
+865,Project Management Fundamentals,Business,14211,431
+866,Machine Learning Basics,Programming,44525,31
+867,Java Programming,Web Development,19404,341
+868,UI/UX Design Essentials,Business,36776,462
+869,C++ for Competitive Coding,Web Development,35034,84
+870,Rust Fundamentals,Programming,21476,170
+871,C++ for Competitive Coding,Web Development,29251,448
+872,Graphic Design with Photoshop,Business,38861,285
+873,React & Node.js Mastery,Programming,14516,121
+874,C++ for Competitive Coding,Design,10772,269
+875,3D Modeling with Blender,Web Development,38081,412
+876,UI/UX Design Essentials,Programming,47248,144
+877,Python for Data Science,Business,16022,88
+878,Machine Learning Basics,Business,10436,77
+879,Project Management Fundamentals,Business,49723,24
+880,Deep Learning with TensorFlow,Programming,46930,224
+881,Graphic Design with Photoshop,Web Development,26469,143
+882,JavaScript for Beginners,Data Science,49852,309
+883,JavaScript for Beginners,Business,37511,226
+884,Machine Learning Basics,Data Science,12308,110
+885,UI/UX Design Essentials,Data Science,28728,272
+886,JavaScript for Beginners,Data Science,9834,355
+887,JavaScript for Beginners,Data Science,31199,72
+888,UI/UX Design Essentials,Programming,14045,322
+889,React & Node.js Mastery,Data Science,12065,132
+890,Machine Learning Basics,Design,41778,243
+891,Full-Stack Web Development,Programming,10294,470
+892,React & Node.js Mastery,Web Development,47603,16
+893,Deep Learning with TensorFlow,Design,36959,491
+894,Digital Marketing 101,Programming,15078,485
+895,JavaScript for Beginners,Business,19675,28
+896,Financial Analysis for Startups,Web Development,41931,221
+897,Deep Learning with TensorFlow,Business,10039,42
+898,C++ for Competitive Coding,Data Science,10873,169
+899,C++ for Competitive Coding,Programming,49626,107
+900,Java Programming,Data Science,1257,168
+901,React & Node.js Mastery,Design,33536,198
+902,Project Management Fundamentals,Data Science,33414,31
+903,Rust Fundamentals,Business,42901,39
+904,Machine Learning Basics,Business,31409,278
+905,Full-Stack Web Development,Business,28372,151
+906,Digital Marketing 101,Data Science,36800,188
+907,JavaScript for Beginners,Design,33776,170
+908,JavaScript for Beginners,Programming,34381,239
+909,Rust Fundamentals,Web Development,18795,411
+910,JavaScript for Beginners,Data Science,11810,114
+911,C++ for Competitive Coding,Web Development,31700,314
+912,C++ for Competitive Coding,Data Science,39062,215
+913,3D Modeling with Blender,Programming,6137,438
+914,UI/UX Design Essentials,Web Development,27570,6
+915,UI/UX Design Essentials,Business,27317,236
+916,Machine Learning Basics,Business,1417,120
+917,C++ for Competitive Coding,Design,16400,489
+918,Project Management Fundamentals,Programming,29116,111
+919,Graphic Design with Photoshop,Web Development,5221,315
+920,JavaScript for Beginners,Data Science,17641,494
+921,React & Node.js Mastery,Business,49377,349
+922,Graphic Design with Photoshop,Business,13591,372
+923,JavaScript for Beginners,Design,5992,473
+924,Graphic Design with Photoshop,Data Science,23232,37
+925,Java Programming,Data Science,43798,295
+926,Machine Learning Basics,Web Development,41690,186
+927,UI/UX Design Essentials,Design,17285,11
+928,Deep Learning with TensorFlow,Business,40077,139
+929,JavaScript for Beginners,Design,22527,462
+930,Project Management Fundamentals,Programming,29816,250
+931,Digital Marketing 101,Business,30418,334
+932,Deep Learning with TensorFlow,Web Development,46778,116
+933,Rust Fundamentals,Business,43694,313
+934,Full-Stack Web Development,Programming,14833,383
+935,Deep Learning with TensorFlow,Web Development,31581,107
+936,Java Programming,Web Development,2642,36
+937,Deep Learning with TensorFlow,Programming,46698,489
+938,Financial Analysis for Startups,Web Development,18017,498
+939,Machine Learning Basics,Web Development,44436,395
+940,3D Modeling with Blender,Business,18036,280
+941,Rust Fundamentals,Programming,21163,271
+942,C++ for Competitive Coding,Programming,36565,151
+943,React & Node.js Mastery,Web Development,6845,14
+944,C++ for Competitive Coding,Web Development,47870,34
+945,Digital Marketing 101,Programming,40852,109
+946,Java Programming,Business,41256,213
+947,C++ for Competitive Coding,Design,19917,177
+948,Rust Fundamentals,Design,3070,376
+949,Digital Marketing 101,Programming,39189,88
+950,JavaScript for Beginners,Business,15093,319
+951,C++ for Competitive Coding,Data Science,33831,388
+952,C++ for Competitive Coding,Business,36117,45
+953,Deep Learning with TensorFlow,Programming,19921,490
+954,JavaScript for Beginners,Programming,35422,383
+955,JavaScript for Beginners,Design,8103,273
+956,Java Programming,Business,47537,178
+957,3D Modeling with Blender,Design,40205,18
+958,Java Programming,Data Science,25069,199
+959,Java Programming,Business,27169,66
+960,Machine Learning Basics,Design,16882,362
+961,C++ for Competitive Coding,Web Development,38746,338
+962,Full-Stack Web Development,Design,26222,461
+963,Java Programming,Business,592,68
+964,Graphic Design with Photoshop,Design,39311,392
+965,Graphic Design with Photoshop,Web Development,30190,442
+966,Full-Stack Web Development,Design,21238,90
+967,React & Node.js Mastery,Data Science,11129,28
+968,Deep Learning with TensorFlow,Data Science,699,432
+969,Python for Data Science,Data Science,34523,134
+970,Graphic Design with Photoshop,Web Development,25762,338
+971,React & Node.js Mastery,Design,37069,407
+972,C++ for Competitive Coding,Data Science,15869,44
+973,Digital Marketing 101,Web Development,16629,436
+974,3D Modeling with Blender,Programming,31646,60
+975,Graphic Design with Photoshop,Data Science,41107,93
+976,React & Node.js Mastery,Web Development,41692,216
+977,C++ for Competitive Coding,Design,44437,355
+978,Full-Stack Web Development,Business,21724,222
+979,Python for Data Science,Data Science,6772,125
+980,Rust Fundamentals,Business,12016,300
+981,Rust Fundamentals,Business,34190,283
+982,Project Management Fundamentals,Programming,7577,431
+983,Machine Learning Basics,Web Development,32655,308
+984,Rust Fundamentals,Business,38954,119
+985,Machine Learning Basics,Data Science,13782,322
+986,Python for Data Science,Web Development,27939,438
+987,Digital Marketing 101,Data Science,28331,138
+988,Machine Learning Basics,Programming,33452,16
+989,Rust Fundamentals,Data Science,32691,358
+990,Deep Learning with TensorFlow,Design,35559,449
+991,Project Management Fundamentals,Design,1576,300
+992,Financial Analysis for Startups,Business,4569,415
+993,Financial Analysis for Startups,Web Development,45744,464
+994,Full-Stack Web Development,Design,49388,324
+995,Graphic Design with Photoshop,Design,17798,214
+996,UI/UX Design Essentials,Business,9282,35
+997,Graphic Design with Photoshop,Data Science,29026,26
+998,Machine Learning Basics,Business,24373,182
+999,Java Programming,Web Development,22924,120
+1000,Rust Fundamentals,Data Science,14315,259
